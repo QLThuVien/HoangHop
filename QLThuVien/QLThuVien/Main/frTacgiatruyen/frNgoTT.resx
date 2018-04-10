@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Ngô Tất Tố sinh năm 1894 ở làng Lộc Hà, tổng Hội Phụ, phủ Từ Sơn, Bắc Ninh (nay là thôn Lộc Hà, xã Mai Lâm, huyện Đông Anh, Hà Nội). Ông là con thứ hai, nhưng là trưởng nam trong một gia đình có bảy anh chị em, ba trai, bốn gái. Lúc còn nhỏ Ngô Tất Tố được thụ hưởng một nền giáo dục Nho học. Từ năm 1898, Ngô Tất Tố được ông nội dạy vỡ lòng chữ Hán ở quê, sau đó ông theo học ở nhiều làng quê trong vùng. Năm 1912, Ngô Tất Tố học tư chữ Pháp một thời gian ngắn và bắt đầu tham dự các kỳ thi truyền thống lúc bấy giờ vẫn còn được triều đình nhà Nguyễn tổ chức. Ông đỗ kỳ sát hạch, nhưng thi hương bị hỏng ở kỳ đệ nhất. Đến năm 1915, ông đỗ đầu kỳ khảo hạch toàn tỉnh Bắc Ninh, nên được gọi là đầu xứ Tố, rồi thi hương lần thứ hai, khoa Ất Mão, cũng là khoa thi hương cuối cùng ở Bắc Kì. Ông qua được kỳ đệ nhất, nhưng bị hỏng ở kỳ đệ nhị
+
+Năm 1926, Ngô Tất Tố ra Hà Nội làm báo. Ông viết cho tờ An Nam tạp chí. Nhưng vì thiếu tiền, tờ báo này phải tự đình bản, Ngô Tất Tố cùng với Tản Đà đã vào Sài Gòn. Mặc dù không thật sự thành công trong cuộc thử sức ở Nam Kì, nhưng tại đây, Ngô Tất Tố đã có cơ hội tiếp cận với tri thức và văn hóa thế giới ở vùng đất khi đó là thuộc địa chính thức của Pháp cũng như theo đuổi nghề báo để chuẩn bị sau này trở thành một nhà báo chuyên nghiệp. Trong thời kỳ này, ông viết với các bút danh Bắc Hà, Thiết Khẩu Nhi, Lộc Hà, Tân Thôn Dân...
+
+Sau gần ba năm ở Sài Gòn, Ngô Tất Tố trở ra Hà Nội. Ông tiếp tục sinh sống bằng cách viết bài cho các báo: An Nam tạp chí, Thần chung, Phổ thông, Đông Dương, Hải Phòng tuần báo, Thực nghiệp, Con ong, Việt nữ, Tiểu thuyết thứ ba, Tương lai, Công dân, Đông Pháp thời báo, Thời vụ, Hà Nội tân văn,Tuần lễ... với 29 bút danh khác nhau như: Thục Điểu, Lộc Hà, Lộc Đình, Thôn Dân, Phó Chi, Tuệ Nhơn, Thuyết Hải, Xuân Trào, Hy Cừ... Trong thời gian những năm 1936-1939, Ngô Tất Tố viết nhiều tác phẩm chỉ trích quan lại tham nhũng phong kiến. Hà Văn Đức, trong bài viết Ngô Tất Tố - Nhà văn tin cậy của nông dân (báo Nhân dân, ngày 10 tháng 6 năm 1997), cho biết năm 1935, Ngô Tất Tố từng bị chánh sở mật thám Hà Nội gọi lên "để mua chuộc", nhưng ông từ chối. Ngoài ra, nhiều lần Ngô Tất Tố bị cấm viết báo và bị trục xuất khỏi Hà Nội, Hải Phòng, Nam Định. Năm 1939, chính quyền thuộc địa ra lệnh cấm tác phẩm Tắt đèn. Nhà Ngô Tất Tố ở Bắc Ninh bị nhà chức trách khám xét và ông bị bắt giam ở Hà Nội vài tháng.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureEdit4.EditValue" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        6CVxH6Tnb/q/+2lSsv8ATLXNve3/ANylQf/Z
+</value>
+  </data>
+</root>
